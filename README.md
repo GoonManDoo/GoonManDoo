@@ -13,7 +13,7 @@
 |     OS    | <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> |   |   |
 |    ETC    | <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> |   |   |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kym8439@gmail.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoonManDoo&show_icons=true&theme=radical)
 
 </div>
 
