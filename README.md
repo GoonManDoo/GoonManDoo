@@ -12,6 +12,9 @@
 |     DB    | <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> |<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">|   |
 |     OS    | <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> |   |   |
 |    ETC    | <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> |   |   |
+<br/>
+<br/>
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoonManDoo&show_icons=true&theme=radical)
 
