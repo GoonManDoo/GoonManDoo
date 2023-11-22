@@ -4,7 +4,7 @@
 
 안녕하세요, 누리 아버지의 GitHub에 오신 것을 환영합니다.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gowun+Batang&pause=1000&random=false&width=560&height=80&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EB%88%84%EB%A6%AC+%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98+GitHub%EC%97%90+%EC%98%A4%EC%8B%A0+%EA%B2%83%EC%9D%84+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gowun+Batang&pause=1000&color=7E7E7E&random=false&width=500&height=70&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EB%88%84%EB%A6%AC+%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98+GitHub%EC%97%90+%EC%98%A4%EC%8B%A0+%EA%B2%83%EC%9D%84+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
 
 <h1>📑 Stacks</h1>
 
