@@ -18,7 +18,8 @@
 <br/>
 <br/>
 <h1>📢 Stats</h1>
-
+<br/>
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoonManDoo&show_icons=true&theme=radical)
 
 </div>
