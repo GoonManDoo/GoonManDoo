@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=👋Hello%20Everyone&fontSize=90)
 
 안녕하세요, 누리 아버지의 GitHub에 오신 것을 환영합니다.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
 <h1>📑 Stacks</h1>
 
